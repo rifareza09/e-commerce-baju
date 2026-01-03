@@ -1,0 +1,142 @@
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                           ┃
+┃        🛍️  E-COMMERCE TOKO BAJU - PHP NATIVE  🛍️        ┃
+┃                                                           ┃
+┃         Website Jual Beli Baju dengan Fitur Lengkap       ┃
+┃                                                           ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+
+═══════════════════════════════════════════════════════════
+   📋 CARA MEMULAI (Quick Start)
+═══════════════════════════════════════════════════════════
+
+1. ✅ PASTIKAN LARAGON RUNNING
+   - Start Apache
+   - Start MySQL
+
+2. 🗄️ SETUP DATABASE (WAJIB - HANYA SEKALI)
+   Buka browser dan akses:
+   
+   👉 http://localhost/e-comers/setup.php
+   
+   Script akan otomatis membuat database dan sample data
+
+3. 🚀 AKSES WEBSITE
+   
+   Frontend (Customer):
+   👉 http://localhost/e-comers
+   
+   Login Admin:
+   👉 http://localhost/e-comers/login.php
+   Email: admin@toko.com
+   Password: password
+
+
+═══════════════════════════════════════════════════════════
+   🎯 FITUR UTAMA
+═══════════════════════════════════════════════════════════
+
+✅ UNTUK ADMIN (Penjual):
+   • Dashboard dengan statistik lengkap
+   • CRUD Produk (Create, Read, Update, Delete)
+   • Upload gambar produk
+   • Kelola pesanan & update status
+   • Lihat data customer
+
+✅ UNTUK CUSTOMER (Pembeli):
+   • Register & Login
+   • Browse & Search produk
+   • Filter berdasarkan kategori
+   • Keranjang belanja
+   • Checkout & tracking pesanan
+   • Gratis ongkir min. Rp 200.000
+
+
+═══════════════════════════════════════════════════════════
+   📁 FILE PENTING
+═══════════════════════════════════════════════════════════
+
+README.md     → Dokumentasi lengkap project
+PANDUAN.md    → Panduan penggunaan detail
+setup.php     → Setup database (run once!)
+
+
+═══════════════════════════════════════════════════════════
+   💡 TIPS
+═══════════════════════════════════════════════════════════
+
+1. Setelah setup berhasil, HAPUS file setup.php
+2. Upload gambar produk melalui admin panel
+3. Test pembelian dari akun customer
+4. Baca PANDUAN.md untuk info lengkap
+
+
+═══════════════════════════════════════════════════════════
+   🔒 KEAMANAN
+═══════════════════════════════════════════════════════════
+
+✓ Password di-hash (bcrypt)
+✓ SQL Injection protection
+✓ XSS protection
+✓ File upload validation
+✓ Session management
+
+
+═══════════════════════════════════════════════════════════
+   📱 RESPONSIVE
+═══════════════════════════════════════════════════════════
+
+Website sudah responsive untuk:
+📱 Mobile
+📱 Tablet  
+💻 Desktop
+
+
+═══════════════════════════════════════════════════════════
+   🎨 TEKNOLOGI
+═══════════════════════════════════════════════════════════
+
+• PHP Native (No Framework)
+• MySQL Database
+• HTML5 & CSS3
+• JavaScript (Vanilla)
+• Font Awesome Icons
+• Google Fonts (Poppins)
+
+
+═══════════════════════════════════════════════════════════
+   ✨ KUSTOMISASI
+═══════════════════════════════════════════════════════════
+
+Lihat PANDUAN.md untuk:
+• Mengubah warna tema
+• Menambah kategori
+• Mengubah logo & branding
+
+
+═══════════════════════════════════════════════════════════
+   📞 SUPPORT
+═══════════════════════════════════════════════════════════
+
+Email: info@tokokaos.com
+WhatsApp: +62 812-3456-7890
+
+
+═══════════════════════════════════════════════════════════
+
+            🎉 SELAMAT MENGGUNAKAN! 🎉
+            
+         Website E-Commerce Anda Siap Digunakan
+              Made with ❤️ using PHP Native
+
+═══════════════════════════════════════════════════════════
+
+
+CATATAN PENTING:
+⚠️  Jalankan setup.php terlebih dahulu!
+⚠️  Hapus setup.php setelah instalasi selesai
+⚠️  Backup database secara berkala
+⚠️  Ganti password admin default
+
+═══════════════════════════════════════════════════════════

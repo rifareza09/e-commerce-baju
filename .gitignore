@@ -1,0 +1,26 @@
+# Uploaded images (kecuali placeholder)
+assets/images/products/*
+!assets/images/products/.gitkeep
+
+# Temporary migration files
+migrate-order-number.php
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Log files
+*.log
+error_log
+
+# Backup files
+*.bak
+*.tmp
+*~
